@@ -23,8 +23,8 @@ class NetworkManager {
 	}
 	
 	private let headers = [
-		"x-rapidapi-host": "api-football-beta.p.rapidapi.com",
-		"x-rapidapi-key": "861812f1a5msh0042ccba87cb76cp15d60djsnd4abe1a07af6"
+		"x-rapidapi-host": "",
+		"x-rapidapi-key": ""
 	]
 	
     // Initialization
